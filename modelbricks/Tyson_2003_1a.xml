@@ -1,0 +1,122 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<sbml xmlns="http://www.sbml.org/sbml/level3/version1/core" level="3" version="1">
+  <model areaUnits="um2" id="Tyson_2003_1a_Linear" lengthUnits="um" name="Tyson_2003_1a_Linear" substanceUnits="molecules" timeUnits="s" volumeUnits="um3">
+    <listOfUnitDefinitions>
+      <unitDefinition id="molecules">
+        <listOfUnits>
+          <unit exponent="1" kind="item" multiplier="1" scale="0"/>
+        </listOfUnits>
+      </unitDefinition>
+      <unitDefinition id="um3">
+        <listOfUnits>
+          <unit exponent="3" kind="meter" multiplier="1" scale="-6"/>
+        </listOfUnits>
+      </unitDefinition>
+      <unitDefinition id="um2">
+        <listOfUnits>
+          <unit exponent="2" kind="meter" multiplier="1" scale="-6"/>
+        </listOfUnits>
+      </unitDefinition>
+      <unitDefinition id="um">
+        <listOfUnits>
+          <unit exponent="1" kind="meter" multiplier="1" scale="-6"/>
+        </listOfUnits>
+      </unitDefinition>
+      <unitDefinition id="s">
+        <listOfUnits>
+          <unit exponent="1" kind="second" multiplier="1" scale="0"/>
+        </listOfUnits>
+      </unitDefinition>
+      <unitDefinition id="uM_s_1">
+        <listOfUnits>
+          <unit exponent="1" kind="mole" multiplier="1" scale="-6"/>
+          <unit exponent="-1" kind="litre" multiplier="1" scale="0"/>
+          <unit exponent="-1" kind="second" multiplier="1" scale="0"/>
+        </listOfUnits>
+      </unitDefinition>
+      <unitDefinition id="s_1">
+        <listOfUnits>
+          <unit exponent="-1" kind="second" multiplier="1" scale="0"/>
+        </listOfUnits>
+      </unitDefinition>
+    </listOfUnitDefinitions>
+    <listOfCompartments>
+      <compartment constant="true" id="c0" name="c0" size="50000" spatialDimensions="3" units="um3"/>
+    </listOfCompartments>
+    <listOfSpecies>
+      <species boundaryCondition="false" compartment="c0" constant="false" hasOnlySubstanceUnits="false" id="R" initialConcentration="0" substanceUnits="molecules"/>
+      <species boundaryCondition="false" compartment="c0" constant="false" hasOnlySubstanceUnits="false" id="S" substanceUnits="molecules"/>
+    </listOfSpecies>
+    <listOfParameters>
+      <parameter constant="true" id="kd_r0" units="s_1" value="5"/>
+      <parameter constant="false" id="Kf_r0" units="s_1"/>
+      <parameter constant="true" id="k_r1" units="s_1" value="1"/>
+    </listOfParameters>
+    <listOfInitialAssignments>
+      <initialAssignment symbol="S">
+        <math xmlns="http://www.w3.org/1998/Math/MathML">        
+          <csymbol encoding="text" definitionURL="http://www.sbml.org/sbml/symbols/time"> t </csymbol>
+        </math>
+            </initialAssignment>
+    </listOfInitialAssignments>
+    <listOfRules>
+      <assignmentRule variable="Kf_r0">
+        <math xmlns="http://www.w3.org/1998/Math/MathML">        
+          <ci> kd_r0 </ci>
+        </math>
+            </assignmentRule>
+    </listOfRules>
+    <listOfReactions>
+      <reaction fast="false" id="r0" name="r0" reversible="true">
+        <listOfReactants>
+          <speciesReference constant="true" id="r0_Rr" species="R" stoichiometry="1">
+            <notes>
+              <p xmlns="http://www.w3.org/1999/xhtml">VCELL guess: how do we know if reaction is constant?</p>
+            </notes>
+          </speciesReference>
+        </listOfReactants>
+        <kineticLaw>
+          <math xmlns="http://www.w3.org/1998/Math/MathML">          
+            <apply>
+              <times/>
+              <apply>
+                <times/>
+                <ci> Kf_r0 </ci>
+                <ci> R </ci>
+              </apply>
+              <ci> c0 </ci>
+            </apply>
+          </math>
+                  <listOfLocalParameters>
+            <localParameter id="Kr" units="uM_s_1" value="0"/>
+          </listOfLocalParameters>
+        </kineticLaw>
+      </reaction>
+      <reaction fast="false" id="r1" name="r1" reversible="true">
+        <listOfProducts>
+          <speciesReference constant="true" id="r1_Rp" species="R" stoichiometry="1">
+            <notes>
+              <p xmlns="http://www.w3.org/1999/xhtml">VCELL guess: how do we know if reaction is constant?</p>
+            </notes>
+          </speciesReference>
+        </listOfProducts>
+        <listOfModifiers>
+          <modifierSpeciesReference species="S"/>
+        </listOfModifiers>
+        <kineticLaw>
+          <math xmlns="http://www.w3.org/1998/Math/MathML">          
+            <apply>
+              <times/>
+              <apply>
+                <times/>
+                <ci> k_r1 </ci>
+                <ci> S </ci>
+              </apply>
+              <ci> c0 </ci>
+            </apply>
+          </math>
+                </kineticLaw>
+      </reaction>
+    </listOfReactions>
+  </model>
+</sbml>
