@@ -48,7 +48,7 @@ If phosphorylation of a protein R is regulated by a signal S, then the amount of
 
 <table>
     <tr>
-    <td style="width:410px; text-align:center; font-size:90%;"><img src="/images/modelbricks/PerfectlyAdaptedSBGN.PNG" width="600"/></td> 
+    <td style="width:380px; text-align:center; font-size:90%;"><img src="/images/modelbricks/PerfectlyAdaptedSBGN.PNG" width="600"/></td> 
  <td style="width:410px; text-align:center; font-size:90%;"><img src="/images/modelbricks/PerfectlyAdaptedResponse.PNG" width="200"/></td>
     </tr>
 </table>
