@@ -29,8 +29,8 @@ If synthesis of a protein R is regulated by a signal S, with a constant degradat
 
 <table>
     <tr>
-    <td style="width:410px; text-align:center; font-size:90%;"><img src="/images/modelbricks/PhosphorylationSBGN.PNG" width="600"/></td> 
- <td style="width:210px; text-align:center; font-size:90%;"><img src="/images/modelbricks/HyperbolicResponse.PNG" width="200"/> </td> 
+    <td style="width:360px; text-align:center; font-size:90%;"><img src="/images/modelbricks/PhosphorylationSBGN.PNG" width="600"/></td> 
+ <td style="width:190px; text-align:center; font-size:90%;"><img src="/images/modelbricks/HyperbolicResponse.PNG" width="200"/> </td> 
  <td style="width:210px; text-align:center; font-size:90%;"><img src="/images/modelbricks/SigmoidalResponse.PNG" width="170"/></td>      </tr>
 </table>
 
