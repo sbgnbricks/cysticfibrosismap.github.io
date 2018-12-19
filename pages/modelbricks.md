@@ -13,7 +13,14 @@ Complex molecular networks often can be constructed from simpler modules that we
 Multiplex bricks represent a rich source of information that could be leveraged to simplify model building and understanding by the community at-large. A computable ModelBrick is essentially a small model that is thoroughly annotated, and minted a DOI for a permanent reference. A computable ModelBrick is a small model derived from a Multiplex Brick. To enable reproducibility, it is thoroughly annotated, and minted a DOI for a permanent reference. Element annotations will include stable identifiers such as PubMedIDs for models and for individual component parameters, Gene Ontology, Systems Biology Ontology, Reactome and BioCyc as well as other public databases such as UniProt, and CheBi, etc. VCell BioModels will be interoperable with the SBML model composition standard. The project is a part of the Virtual Cell modeling and simulation framework (<a href="http://vcell.org">http://vcell.org</a>) and led by Michael Blinov (<a href="mailto:blinov@uchc.edu">blinov@uchc.edu</a>) and Ann Cowan (<a href="mailto:acowan@uchc.edu">acowan@uchc.edu</a>). VCell BioModels composed of ModelBricks will be interoperable with the <a href="http://sbml.org/Documents/Specifications/SBML_Level_3/Packages/Hierarchical_Model_Composition_%28comp%29">SBML Hierarchical Model Composition standard</a>. Different modeling techniques can be used to link multiplex bricks to computable ModelBricks. A ModelBrick comprising a reaction network is a direct analogue of Multiplex Brick in SBGN-PD representation. Kinetic laws and numerical parameters need to be added to such brick in order to make it computable. Rule-based modeling enables identification of each species in a model as a composition of uniquely identifiable molecules, and accounts for internal species connectivity and posttranslational modifications. 
 
 ### Protein synthesis and degradation
- <div class="img" style="font-size:90%; text-align:center;"> <img src="/images/modelbricks/LinearSBGN.PNG" width="600"/> &ensp; <img src="/images/modelbricks/LinearResponse.PNG" width="200"/><br />  </div> 
+
+<table>
+    <tr>
+    <td style="width:410px; text-align:center; font-size:90%;"><img src="/images/modelbricks/LinearSBGN.PNG" width="600"/></td>
+    <td style="width:410px; text-align:center; font-size:90%;"><img src="/images/modelbricks/LinearResponse.PNG" width="200"/></td>
+     </tr>
+</table>
+
 If synthesis of a protein R is regulated by a signal S, with a constant degradation, then R is characterised by a <strong>linear response</strong>: the amount of R is directly proportional to the strength of signal S. SBGN-PD brick avove provides visualisation of this module. The VCell model <a href="/modelbricks/Tyson_2003_1a.vcml">Tyson_2003_1a.vcml</a> provides an executable counterpart for this multiplex brick.
 
  <div class="img" style="font-size:90%; text-align:center;"><br /><a href="/modelbricks/LinearResponse.graphml">SBGN-PD brick</a> &ensp; <a href="/modelbricks/Tyson_2003_1a.vcml">VCell brick</a> &ensp; <a href="/modelbricks/Tyson_2003_1a.xml">SBML brick</a></div>
