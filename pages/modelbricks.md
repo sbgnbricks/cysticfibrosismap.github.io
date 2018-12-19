@@ -10,22 +10,37 @@ Complex molecular networks often can be constructed from simpler modules that we
 
 ## Process Description ModelBricks
 
-Text
+Multiplex bricks represent a rich source of information that could be leveraged to simplify model building and understanding by the community at-large. A computable ModelBrick is essentially a small model that is thoroughly annotated, and minted a DOI for a permanent reference. A computable ModelBrick is a small model derived from a Multiplex Brick. To enable reproducibility, it is thoroughly annotated, and minted a DOI for a permanent reference. Element annotations will include stable identifiers such as PubMedIDs for models and for individual component parameters, Gene Ontology, Systems Biology Ontology, Reactome and BioCyc as well as other public databases such as UniProt, and CheBi, etc. VCell BioModels will be interoperable with the SBML model composition standard. The project is a part of the Virtual Cell modeling and simulation framework (https://vcell.org) and led by Michael Blinov (mailto: blinov@uchc.edu) and Ann Cowan (mailto: acowan@uchc.edu). VCell BioModels composed of ModelBricks will be interoperable with the SBML Hierarchical Model Composition standard (http://sbml.org/Documents/Specifications/SBML_Level_3/Packages/Hierarchical_Model_Composition_%28comp%29). Different modeling techniques can be used to link multiplex bricks to computable ModelBricks. A ModelBrick comprising a reaction network is a direct analogue of Multiplex Brick in SBGN-PD representation. Kinetic laws and numerical parameters need to be added to such brick in order to make it computable. Rule-based modeling enables identification of each species in a model as a composition of uniquely identifiable molecules, and accounts for internal species connectivity and posttranslational modifications. 
 
 ### Protein synthesis and degradation
 
-If synthesis of a protein R is regulated by a signal S, with a constant degradation, then R is characterised by a **linear response**: the amount of R is directly proportional to the strength of signal S. Below is SBGN brick that provides visualisation of this motif. The VCell model [Tyson_2003_1a.vcml](https://...) provides an executable counterpart for this multiplex brick.
+ <div class="img" style="font-size:90%; text-align:center;"> <img src="/images/modelbricks/LinearSBGN.PNG" width="400" > &ensp; <img src="/images/modelbricks/LinearResponse.PNG" width="200"/><br />  </div> 
+If synthesis of a protein R is regulated by a signal S, with a constant degradation, then R is characterised by a <strong>linear response</strong>: the amount of R is directly proportional to the strength of signal S. SBGN-PD brick avove provides visualisation of this module. The VCell model <a href="/modelbricks/Tyson_2003_1a.vcml">Tyson_2003_1a.vcml</a> provides an executable counterpart for this multiplex brick.
 
-FIGURE
+ <div class="img" style="font-size:90%; text-align:center;"><br /><a href="/modelbricks/LinearResponse.graphml">SBGN-PD brick</a> &ensp; <a href="/modelbricks/Tyson_2003_1a.vcml">VCell brick</a> &ensp; <a href="/modelbricks/Tyson_2003_1a.xml">SBML brick</a></div>
 
 ### Protein phosphorylation
 
-If phosphorylation of a protein R is regulated by a signal S, then the amount of phosphorylated RP is characterised by either a **hyperbolic** or a **sigmoidal response**. The visualisation cannot provide the exact response pattern, as it depends on the kinetics of phosphorylation and dephosphorylation reactions. Below is SBGN brick that includes visualisation of this motif. This Multiplex Brick corresponds to two different executable bricks reproducing both signal-response patterns: VCell model Tyson_2003_1b.vcml (executable link) provides an executable counterpart for this multiplex brick for a sigmoidal response, while VCell model Tyson_2003_1c.vcml (executable link) provides an executable counterpart for a hyperbolic response.
+<div class="img" style="font-size:90%; text-align:center;"> 
+ <img src="/images/modelbricks/PhosphorylationSBGN.PNG" width="400" > &ensp; 
+ <img src="/images/modelbricks/HyperbolicResponse.PNG" width="200"/> &ensp; 
+ <img src="/images/modelbricks/SigmoidalResponse.PNG" width="180"/><br />  </div>
 
-FIGURE
+If phosphorylation of a protein R is regulated by a signal S, then the amount of phosphorylated RP is characterised by either a <strong>hyperbolic</strong> or a <strong>sigmoidal response</strong>. The visualisation cannot provide the exact response pattern, as it depends on the kinetics of phosphorylation and dephosphorylation reactions. Below is SBGN brick that includes visualisation of this motif. This Multiplex Brick corresponds to two different executable bricks reproducing both signal-response patterns: VCell model <a href="/modelbricks/Tyson_2003_1b.vcml">Tyson_2003_1b.vcml</a> provides an executable counterpart for this multiplex brick for a sigmoidal response, while VCell model <a href="/modelbricks/Tyson_2003_1c.vcml">Tyson_2003_1c.vcml</a> provides an executable counterpart for a hyperbolic response.
+
+ <div class="img" style="font-size:90%; text-align:center;"><br />
+ <a href="/modelbricks/PhosphorylationSBGN.graphml">SBGN-PD brick</a> &ensp; 
+ <a href="/modelbricks/Tyson_2003_1b.vcml">VCell brick Hyperbolic</a> &ensp; 
+ <a href="/modelbricks/Tyson_2003_1c.vcml">VCell brick Sigmoidal</a> &ensp;
+ <a href="/modelbricks/Tyson_2003_1b.xml">SBML brick Hyperbolic</a> &ensp;
+<a href="/modelbricks/Tyson_2003_1c.xml">SBML brick Sigmoidal</a>
+</div>
 
 ### Perfectly adapted signal-response
 
-Although the signalling pathway exhibits a transient response to changes in signal strength, its steady-state response R is independent of S. Such behaviour is typical of chemotactic systems, which respond to an abrupt change in attractants or repellents, but then adapt to a constant level of the signal. The human sense of smell operates the same way. Below is SBGN brick that provides visualisation of this motif. The VCell model Tyson_2003_1d.vcml (executable link) provides an executable counterpart for this multiplex brick.
+<div class="img" style="font-size:90%; text-align:center;"> 
+ <img src="/images/modelbricks/PerfectlyAdaptedSBGN.PNG" width="400" > &ensp; 
+ <img src="/images/modelbricks/PerfectlyAdaptedResponse.PNG" width="200"/><br />  </div>
 
-FIGURE
+Although the signalling pathway exhibits a transient response to changes in signal strength, its steady-state response R is independent of S. Such behaviour is typical of chemotactic systems, which respond to an abrupt change in attractants or repellents, but then adapt to a constant level of the signal. The human sense of smell operates the same way. Below is SBGN brick that provides visualisation of this motif. The VCell model <a href="/modelbricks/Tyson_2003_1d.vcml">Tyson_2003_1c.vcml</a> provides an executable counterpart for this multiplex brick.
+
