@@ -16,7 +16,7 @@ Junker A, Sorokin A, Czauderna T, Schreiber F, Mazein A. Wiring diagrams in biol
 
 To contribute and discuss the project please use this email address: [sbgnbricks@googlegroups.com](mailto:sbgnbricks@googlegroups.com)  
 SBGN Bricks Project Coordinator: Alexander Mazein [a.mazein@gmail.com](mailto:a.mazein@gmail.com)  
-ModelBricks Project Leader: Michael Blinov [blinov@uchc.edu](mailto:blinov@uchc.edu)  
+ModelBricks Project Leaders: Michael Blinov [blinov@uchc.edu](mailto:blinov@uchc.edu) and and Ann Cowan [acowan@uchc.edu](mailto:acowan@uchc.edu)
 
 ## Project Team
 
