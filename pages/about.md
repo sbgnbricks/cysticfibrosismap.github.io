@@ -15,10 +15,8 @@ Junker A, Sorokin A, Czauderna T, Schreiber F, Mazein A. Wiring diagrams in biol
 ## Contact
 
 To contribute and discuss the project please use this email address: [sbgnbricks@googlegroups.com](mailto:sbgnbricks@googlegroups.com)  
-
-<!--## Related projects
-PD2AF Converter
-ModelBricks of the Virtual Cell project-->
+SBGN Bricks Project Coordinator: Alexander Mazein [a.mazein@gmail.com](mailto:a.mazein@gmail.com)  
+ModelBricks Project Leader: Michael Blinov [blinov@uchc.edu](mailto:blinov@uchc.edu)  
 
 ## Project Team
 
