@@ -23,7 +23,7 @@ The ModelBricks project is led by Michael Blinov (<a href="mailto:blinov@uchc.ed
     </tr>
 </table>
 
-If synthesis of a protein R is regulated by a signal S, with a constant degradation, then R is characterised by a <strong>linear response</strong>: the amount of R is directly proportional to the strength of signal S. SBGN-PD brick alove provides visualisation of this module. The VCell model <a href="/modelbricks/Tyson_2003_1a.vcml">Tyson_2003_1a.vcml</a> provides an executable counterpart for this brick. This ModelBrick follows the network described in a paper by Tyson et al. (2003) "Sniffers, buzzers, toggles and blinkers: dynamics of regulatory and signaling pathways in the cell" (<a href="https://www.ncbi.nlm.nih.gov/pubmed/12648679">PubMedID: 12648679</a>).
+If synthesis of a protein R is regulated by a signal S, with a constant degradation, then R is characterised by a <strong>linear response</strong>: the amount of R is directly proportional to the strength of signal S. SBGN-PD brick alove provides visualisation of this module. The VCell model <a href="/modelbricks/Tyson_2003_1a.vcml">Tyson_2003_1a.vcml</a> provides an executable counterpart for this brick. 
 
  <div class="img" style="font-size:90%; text-align:center;"><br />
     <a href="/modelbricks/LinearResponse.graphml">SBGN-PD brick</a> &ensp; 
@@ -59,7 +59,7 @@ If phosphorylation of a protein R is regulated by a signal S, then the amount of
     </tr>
 </table>
 
-Although the signalling pathway exhibits a transient response to changes in signal strength, its steady-state response R is independent of S. Such behaviour is typical of chemotactic systems, which respond to an abrupt change in attractants or repellents, but then adapt to a constant level of the signal. The human sense of smell operates the same way. Below is SBGN brick that provides visualisation of this motif. The VCell model <a href="/modelbricks/Tyson_2003_1d.vcml">Tyson_2003_1d.vcml</a> provides an executable counterpart for this brick.
+Although the signalling pathway exhibits a transient response to changes in signal strength, its steady-state response R is independent of S. Such behaviour is typical of chemotactic systems, which respond to an abrupt change in attractants or repellents, but then adapt to a constant level of the signal. The human sense of smell operates the same way. Below is SBGN brick that provides visualisation of this motif. The VCell BioModel <a href="/modelbricks/Tyson_2003_1d.vcml">Tyson_2003_1d.vcml</a> provides an executable counterpart for this brick.
 
  <div class="img" style="font-size:90%; text-align:center;"><br />
  <a href="/modelbricks/PhosphorylationSBGN.graphml">SBGN-PD brick</a> &ensp; 
