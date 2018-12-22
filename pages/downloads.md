@@ -12,7 +12,7 @@ The resource is continuously updated. The downloads below reflect the state at t
 
 ## SBGN Bricks 2.0
 
-The changes in comparison to the previously released set of bricks:  
+The release is in preparation. The changes in comparison to the previously released set of bricks:  
 
 * Introduced different types of posttranslational modification in addition to _phosphorylation_ bricks  
 * Added advanced patterns for various types of _inhibition_ (detailed, without using the _inhibition_ arc).
