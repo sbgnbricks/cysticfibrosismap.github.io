@@ -18,7 +18,7 @@ permalink: /team/
 <table>
 <tr>
 <td style="width: 200px;"><p style="margin:4px;"><strong>Astrid Junker</strong></p><p style="margin:4px; line-height:100%;"><font size="2">Leibniz Institute of Plant Genetics and Crop Plant Research, Gatersleben, Germany</font></p></td>
-<td style="width: 200px;"><p style="margin:4px;"><strong>Alexander Mazein</strong></p><p style="margin:4px; line-height:100%;"><font size="2">European Institute for Systems Biology and Medicine, Lyon, France</font></p></td>
+<td style="width: 200px;"><p style="margin:4px;"><strong>Alexander Mazein</strong></p><p style="margin:4px; line-height:100%;"><font size="2">Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Belval, Luxembourg</font></p></td>
 <td style="width: 200px;"><p style="margin:4px;"><strong>Vasundra Toure</strong></p><p style="margin:4px; line-height:100%;"><font size="2">Norwegian University of Science and Technology, Trondheim, Norway</font></p></td>
 <td style="width: 200px;"><p style="margin:4px;"><strong>Adrien Rougny</strong></p><p style="margin:4px; line-height:100%;"><font size="2">National Institute of Advanced Industrial Science and Technology, Tokyo, Japan</font></p></td>
 </tr>
