@@ -101,7 +101,7 @@ Associated GO terms: [GO:0008152 metabolic process](http://amigo.geneontology.or
       <td class="er" style="width:32%">Not applicable</td>
   </tr>
   <tr>
-      <td><a href="/bricks2/reaction/Reaction-PD01-IRR.sbgn"><img src="../images/sbgnml_logo.png" width="60"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/bricks2/reaction/Reaction-PD01-IRR.sbgn"><img src="../images/newt_logo.png" width="50"/></a></td>
+      <td><a href="/bricks2/reaction/Reaction-PD01-IRR.sbgn"><img src="../images/sbgnml_logo.png" width="60"/></a><!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/bricks2/reaction/Reaction-PD01-IRR.sbgn"><img src="../images/newt_logo.png" width="50"/></a>--></td>
       <td></td>
       <td></td>
   </tr>
@@ -116,7 +116,7 @@ Associated GO terms: [GO:0008152 metabolic process](http://amigo.geneontology.or
       <td class="er" style="width:32%">Not applicable</td>
   </tr>
   <tr>
-      <td><a href="/bricks2/reaction/Reaction-PD02-REV.sbgn"><img src="../images/sbgnml_logo.png" width="60"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/bricks2/reaction/Reaction-PD02-REV.sbgn"><img src="../images/newt_logo.png" width="50"/></a></td>
+      <td><a href="/bricks2/reaction/Reaction-PD02-REV.sbgn"><img src="../images/sbgnml_logo.png" width="60"/></a><!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/bricks2/reaction/Reaction-PD02-REV.sbgn"><img src="../images/newt_logo.png" width="50"/></a>--></td>
       <td></td>
       <td></td>
   </tr>
@@ -137,8 +137,8 @@ Associated GO terms: [GO:0003824 catalytic activity](http://amigo.geneontology.o
       <td class="er" style="width:32%">Not applicable</td>
   </tr>
   <tr>
-      <td><a href="/bricks2/catalysis/Catalysis-PD01-IRR-1x1.sbgn"><img src="../images/sbgnml_logo.png" width="60"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/bricks2/catalysis/Catalysis-PD01-IRR-1x1.sbgn"><img src="../images/newt_logo.png" width="50"/></a></td>
-      <td><a href="/bricks2/catalysis/Catalysis-AF01-IRR-1x1.sbgn"><img src="../images/sbgnml_logo.png" width="60"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/bricks2/catalysis/Catalysis-AF01-IRR-1x1.sbgn"><img src="../images/newt_logo.png" width="50"/></a></td>
+      <td><a href="/bricks2/catalysis/Catalysis-PD01-IRR-1x1.sbgn"><img src="../images/sbgnml_logo.png" width="60"/></a><!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/bricks2/catalysis/Catalysis-PD01-IRR-1x1.sbgn"><img src="../images/newt_logo.png" width="50"/></a>--></td>
+      <td><a href="/bricks2/catalysis/Catalysis-AF01-IRR-1x1.sbgn"><img src="../images/sbgnml_logo.png" width="60"/></a><!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/bricks2/catalysis/Catalysis-AF01-IRR-1x1.sbgn"><img src="../images/newt_logo.png" width="50"/></a>--></td>
       <!-- <td></td> -->
       <td></td>
   </tr>
@@ -154,8 +154,8 @@ Associated GO terms: [GO:0003824 catalytic activity](http://amigo.geneontology.o
       <td class="er" style="width:32%">Not applicable</td>
   </tr>
   <tr>
-      <td><a href="/bricks2/catalysis/Catalysis-PD01-IRR-2x2.sbgn"><img src="../images/sbgnml_logo.png" width="60"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/bricks2/catalysis/Catalysis-PD01-IRR-2x2.sbgn"><img src="../images/newt_logo.png" width="50"/></a></td>
-      <td><a href="/bricks2/catalysis/Catalysis-AF01-IRR-2x2.sbgn"><img src="../images/sbgnml_logo.png" width="60"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/bricks2/catalysis/Catalysis-AF01-IRR-2x2.sbgn"><img src="../images/newt_logo.png" width="50"/></a></td>
+      <td><a href="/bricks2/catalysis/Catalysis-PD01-IRR-2x2.sbgn"><img src="../images/sbgnml_logo.png" width="60"/></a><!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/bricks2/catalysis/Catalysis-PD01-IRR-2x2.sbgn"><img src="../images/newt_logo.png" width="50"/></a>--></td>
+      <td><a href="/bricks2/catalysis/Catalysis-AF01-IRR-2x2.sbgn"><img src="../images/sbgnml_logo.png" width="60"/></a><!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/bricks2/catalysis/Catalysis-AF01-IRR-2x2.sbgn"><img src="../images/newt_logo.png" width="50"/></a>--></td>
       <!-- <td></td> -->
       <td></td>
   </tr>
@@ -170,7 +170,7 @@ Associated GO terms: [GO:0003824 catalytic activity](http://amigo.geneontology.o
       <td class="er" style="width:32%">Not applicable</td>
   </tr>
   <tr>
-      <td><a href="/bricks2/catalysis/Catalysis-PD02-REV-1x1.sbgn"><img src="../images/sbgnml_logo.png" width="60"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/bricks2/catalysis/Catalysis-PD02-REV-1x1.sbgn"><img src="../images/newt_logo.png" width="50"/></a></td>
+      <td><a href="/bricks2/catalysis/Catalysis-PD02-REV-1x1.sbgn"><img src="../images/sbgnml_logo.png" width="60"/></a><!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/bricks2/catalysis/Catalysis-PD02-REV-1x1.sbgn"><img src="../images/newt_logo.png" width="50"/></a>--></td>
       <td></td>
       <td></td>
   </tr>
@@ -185,7 +185,7 @@ Associated GO terms: [GO:0003824 catalytic activity](http://amigo.geneontology.o
       <td class="er" style="width:32%">Not applicable</td>
   </tr>
   <tr>
-      <td><a href="/bricks2/catalysis/Catalysis-PD02-REV-2x2.sbgn"><img src="../images/sbgnml_logo.png" width="60"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/bricks2/catalysis/Catalysis-PD02-REV-2x2.sbgn"><img src="../images/newt_logo.png" width="50"/></a></td>
+      <td><a href="/bricks2/catalysis/Catalysis-PD02-REV-2x2.sbgn"><img src="../images/sbgnml_logo.png" width="60"/></a><!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/bricks2/catalysis/Catalysis-PD02-REV-2x2.sbgn"><img src="../images/newt_logo.png" width="50"/></a>--></td>
       <td></td>
       <td></td>
   </tr>
@@ -204,7 +204,7 @@ Associated GO terms: [GO:0043086 negative regulation of catalytic activity](http
       <td class="er" style="width:32%">Not applicable</td>
   </tr>
   <tr>
-      <td><a href="/bricks2/inhibition/Inhibition-PD01.sbgn"><img src="../images/sbgnml_logo.png" width="60"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/bricks2/inhibition/Inhibition-PD01.sbgn"><img src="../images/newt_logo.png" width="50"/></a></td>
+      <td><a href="/bricks2/inhibition/Inhibition-PD01.sbgn"><img src="../images/sbgnml_logo.png" width="60"/></a><!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/bricks2/inhibition/Inhibition-PD01.sbgn"><img src="../images/newt_logo.png" width="50"/></a>--></td>
       <td></td>
       <td></td>
   </tr>
@@ -219,7 +219,7 @@ Associated GO terms: [GO:0043086 negative regulation of catalytic activity](http
       <td class="er" style="width:32%">Not applicable</td>
   </tr>
   <tr>
-      <td><a href="/bricks2/inhibition/Inhibition-PD01-enz.sbgn"><img src="../images/sbgnml_logo.png" width="60"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/bricks2/inhibition/Inhibition-PD01-enz.sbgn"><img src="../images/newt_logo.png" width="50"/></a></td>
+      <td><a href="/bricks2/inhibition/Inhibition-PD01-enz.sbgn"><img src="../images/sbgnml_logo.png" width="60"/></a><!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/bricks2/inhibition/Inhibition-PD01-enz.sbgn"><img src="../images/newt_logo.png" width="50"/></a>--></td>
       <td></td>
       <td></td>
   </tr>
@@ -234,7 +234,7 @@ Associated GO terms: [GO:0043086 negative regulation of catalytic activity](http
       <td class="er" style="width:32%">Not applicable</td>
   </tr>
   <tr>
-      <td><a href="/bricks2/inhibition/Inhibition-PD02.01-REV-WARNING.sbgn"><img src="../images/sbgnml_logo.png" width="60"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/bricks2/inhibition/Inhibition-PD02.01-REV-WARNING.sbgn"><img src="../images/newt_logo.png" width="50"/></a></td>
+      <td><a href="/bricks2/inhibition/Inhibition-PD02.01-REV-WARNING.sbgn"><img src="../images/sbgnml_logo.png" width="60"/></a><!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/bricks2/inhibition/Inhibition-PD02.01-REV-WARNING.sbgn"><img src="../images/newt_logo.png" width="50"/></a>--></td>
       <td></td>
       <td></td>
   </tr>
@@ -257,8 +257,8 @@ Associated GO terms: [GO:0006468 protein phosphorylation](http://amigo.geneontol
       <td class="er new" style="width:32%"><img src="../bricks2/proteinphosphorylation/ProteinPhosphorylation-ER01.png" width="128px"/></td>
   </tr>
   <tr>
-      <td><a href="/bricks2/proteinphosphorylation/ProteinPhosphorylation-PD01.sbgn"><img src="../images/sbgnml_logo.png" width="60"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/bricks2/proteinphosphorylation/ProteinPhosphorylation-PD01.sbgn"><img src="../images/newt_logo.png" width="50"/></a></td>
-      <td><a href="/bricks2/proteinphosphorylation/ProteinPhosphorylation-AF01.sbgn"><img src="../images/sbgnml_logo.png" width="60"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/bricks2/proteinphosphorylation/ProteinPhosphorylation-AF01.sbgn"><img src="../images/newt_logo.png" width="50"/></a></td>
+      <td><a href="/bricks2/proteinphosphorylation/ProteinPhosphorylation-PD01.sbgn"><img src="../images/sbgnml_logo.png" width="60"/></a><!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/bricks2/proteinphosphorylation/ProteinPhosphorylation-PD01.sbgn"><img src="../images/newt_logo.png" width="50"/></a>--></td>
+      <td><a href="/bricks2/proteinphosphorylation/ProteinPhosphorylation-AF01.sbgn"><img src="../images/sbgnml_logo.png" width="60"/></a><!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/bricks2/proteinphosphorylation/ProteinPhosphorylation-AF01.sbgn"><img src="../images/newt_logo.png" width="50"/></a>--></td>
       <td></td>
   </tr>
 </table>
@@ -270,9 +270,9 @@ Associated GO terms: [GO:0006468 protein phosphorylation](http://amigo.geneontol
       <td class="er" style="width:32%"><img src="../bricks2/proteinphosphorylation/ProteinPhosphorylation-ER01-Y.png" width="128px"/></td>
   </tr>
   <tr>
-      <td><a href="/bricks2/proteinphosphorylation/ProteinPhosphorylation-PD01-Y.sbgn"><img src="../images/sbgnml_logo.png" width="60"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/bricks2/proteinphosphorylation/ProteinPhosphorylation-PD01-Y.sbgn"><img src="../images/newt_logo.png" width="50"/></a></td>
-      <td><a href="/bricks2/proteinphosphorylation/ProteinPhosphorylation-AF01-Y.sbgn"><img src="../images/sbgnml_logo.png" width="60"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/bricks2/proteinphosphorylation/ProteinPhosphorylation-AF01-Y.sbgn"><img src="../images/newt_logo.png" width="50"/></a></td>
-      <td><a href="/bricks2/proteinphosphorylation/ProteinPhosphorylation-ER01-Y.sbgn"><img src="../images/sbgnml_logo.png" width="60"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/bricks2/proteinphosphorylation/ProteinPhosphorylation-ER01-Y.sbgn"><img src="../images/newt_logo.png" width="50"/></a></td>
+      <td><a href="/bricks2/proteinphosphorylation/ProteinPhosphorylation-PD01-Y.sbgn"><img src="../images/sbgnml_logo.png" width="60"/></a><!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/bricks2/proteinphosphorylation/ProteinPhosphorylation-PD01-Y.sbgn"><img src="../images/newt_logo.png" width="50"/></a>--></td>
+      <td><a href="/bricks2/proteinphosphorylation/ProteinPhosphorylation-AF01-Y.sbgn"><img src="../images/sbgnml_logo.png" width="60"/></a><!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/bricks2/proteinphosphorylation/ProteinPhosphorylation-AF01-Y.sbgn"><img src="../images/newt_logo.png" width="50"/></a>--></td>
+      <td><a href="/bricks2/proteinphosphorylation/ProteinPhosphorylation-ER01-Y.sbgn"><img src="../images/sbgnml_logo.png" width="60"/></a><!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/bricks2/proteinphosphorylation/ProteinPhosphorylation-ER01-Y.sbgn"><img src="../images/newt_logo.png" width="50"/></a>--></td>
   </tr>
 </table>
 
@@ -283,8 +283,8 @@ Associated GO terms: [GO:0006468 protein phosphorylation](http://amigo.geneontol
       <td class="er" style="width:32%"><img src="../bricks2/proteinphosphorylation/ProteinPhosphorylation-ER01-Y.png" width="128px"/></td>
   </tr>
   <tr>
-      <td><a href="/bricks2/proteinphosphorylation/ProteinPhosphorylation-PD01-2x2.sbgn"><img src="../images/sbgnml_logo.png" width="60"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/bricks2/proteinphosphorylation/ProteinPhosphorylation-PD01-2x2.sbgn"><img src="../images/newt_logo.png" width="50"/></a></td>
-      <td><a href="/bricks2/proteinphosphorylation/ProteinPhosphorylation-AF01-2x2.sbgn"><img src="../images/sbgnml_logo.png" width="60"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/bricks2/proteinphosphorylation/ProteinPhosphorylation-AF01-2x2.sbgn"><img src="../images/newt_logo.png" width="50"/></a></td>
+      <td><a href="/bricks2/proteinphosphorylation/ProteinPhosphorylation-PD01-2x2.sbgn"><img src="../images/sbgnml_logo.png" width="60"/></a><!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/bricks2/proteinphosphorylation/ProteinPhosphorylation-PD01-2x2.sbgn"><img src="../images/newt_logo.png" width="50"/></a>--></td>
+      <td><a href="/bricks2/proteinphosphorylation/ProteinPhosphorylation-AF01-2x2.sbgn"><img src="../images/sbgnml_logo.png" width="60"/></a><!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/bricks2/proteinphosphorylation/ProteinPhosphorylation-AF01-2x2.sbgn"><img src="../images/newt_logo.png" width="50"/></a>--></td>
       <td></td>
   </tr>
 </table>
@@ -309,9 +309,9 @@ Myristoylation | &nbsp; &nbsp; My | &nbsp; &nbsp; SBO:0000219 | &nbsp; &nbsp; &n
       <td class="er new" style="width:32%"><img src="../bricks2/proteindephosphorylation/ProteinDephosphorylation-ER01.png" width="131px"/></td>
   </tr>
   <tr>
-      <td><a href="/bricks2/proteindephosphorylation/ProteinDephosphorylation-PD01.sbgn"><img src="../images/sbgnml_logo.png" width="60"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/bricks2/proteindephosphorylation/ProteinDephosphorylation-PD01.sbgn"><img src="../images/newt_logo.png" width="50"/></a></td>
-      <td><a href="/bricks2/proteindephosphorylation/ProteinDephosphorylation-AF01.sbgn"><img src="../images/sbgnml_logo.png" width="60"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/bricks2/proteindephosphorylation/ProteinDephosphorylation-AF01.sbgn"><img src="../images/newt_logo.png" width="50"/></a></td>
-      <td><a href="/bricks2/proteindephosphorylation/ProteinDephosphorylation-ER01.sbgn"><img src="../images/sbgnml_logo.png" width="60"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/bricks2/proteindephosphorylation/ProteinDephosphorylation-ER01.sbgn"><img src="../images/newt_logo.png" width="50"/></a></td>
+      <td><a href="/bricks2/proteindephosphorylation/ProteinDephosphorylation-PD01.sbgn"><img src="../images/sbgnml_logo.png" width="60"/></a><!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/bricks2/proteindephosphorylation/ProteinDephosphorylation-PD01.sbgn"><img src="../images/newt_logo.png" width="50"/></a>--></td>
+      <td><a href="/bricks2/proteindephosphorylation/ProteinDephosphorylation-AF01.sbgn"><img src="../images/sbgnml_logo.png" width="60"/></a><!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/bricks2/proteindephosphorylation/ProteinDephosphorylation-AF01.sbgn"><img src="../images/newt_logo.png" width="50"/></a>--></td>
+      <td><a href="/bricks2/proteindephosphorylation/ProteinDephosphorylation-ER01.sbgn"><img src="../images/sbgnml_logo.png" width="60"/></a><!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/bricks2/proteindephosphorylation/ProteinDephosphorylation-ER01.sbgn"><img src="../images/newt_logo.png" width="50"/></a>--></td>
   </tr>
 </table>
 
@@ -322,9 +322,9 @@ Myristoylation | &nbsp; &nbsp; My | &nbsp; &nbsp; SBO:0000219 | &nbsp; &nbsp; &n
       <td class="er new" style="width:32%"><img src="../bricks2/proteindephosphorylation/ProteinDephosphorylation-ER01-Y.png" width="131px"/></td>
   </tr>
   <tr>
-      <td><a href="/bricks2/proteindephosphorylation/ProteinDephosphorylation-PD01-Y.sbgn"><img src="../images/sbgnml_logo.png" width="60"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/bricks2/proteindephosphorylation/ProteinDephosphorylation-PD01-Y.sbgn"><img src="../images/newt_logo.png" width="50"/></a></td>
-      <td><a href="/bricks2/proteindephosphorylation/ProteinDephosphorylation-AF01-Y.sbgn"><img src="../images/sbgnml_logo.png" width="60"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/bricks2/proteindephosphorylation/ProteinDephosphorylation-AF01-Y.sbgn"><img src="../images/newt_logo.png" width="50"/></a></td>
-      <td><a href="/bricks2/proteindephosphorylation/ProteinDephosphorylation-ER01-Y.sbgn"><img src="../images/sbgnml_logo.png" width="60"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/bricks2/proteindephosphorylation/ProteinDephosphorylation-ER01-Y.sbgn"><img src="../images/newt_logo.png" width="50"/></a></td>
+      <td><a href="/bricks2/proteindephosphorylation/ProteinDephosphorylation-PD01-Y.sbgn"><img src="../images/sbgnml_logo.png" width="60"/></a><!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/bricks2/proteindephosphorylation/ProteinDephosphorylation-PD01-Y.sbgn"><img src="../images/newt_logo.png" width="50"/></a>--></td>
+      <td><a href="/bricks2/proteindephosphorylation/ProteinDephosphorylation-AF01-Y.sbgn"><img src="../images/sbgnml_logo.png" width="60"/></a><!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/bricks2/proteindephosphorylation/ProteinDephosphorylation-AF01-Y.sbgn"><img src="../images/newt_logo.png" width="50"/></a>--></td>
+      <td><a href="/bricks2/proteindephosphorylation/ProteinDephosphorylation-ER01-Y.sbgn"><img src="../images/sbgnml_logo.png" width="60"/></a><!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/bricks2/proteindephosphorylation/ProteinDephosphorylation-ER01-Y.sbgn"><img src="../images/newt_logo.png" width="50"/></a>--></td>
   </tr>
 </table>
 
@@ -335,9 +335,9 @@ Myristoylation | &nbsp; &nbsp; My | &nbsp; &nbsp; SBO:0000219 | &nbsp; &nbsp; &n
       <td class="er new" style="width:32%"><img src="../bricks2/proteindephosphorylation/ProteinDephosphorylation-ER01-2x2.png" width="131px"/></td>
   </tr>
   <tr>
-      <td><a href="/bricks2/proteindephosphorylation/ProteinDephosphorylation-PD01-2x2.sbgn"><img src="../images/sbgnml_logo.png" width="60"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/bricks2/proteindephosphorylation/ProteinDephosphorylation-PD01-2x2.sbgn"><img src="../images/newt_logo.png" width="50"/></a></td>
-      <td><a href="/bricks2/proteindephosphorylation/ProteinDephosphorylation-AF01-2x2.sbgn"><img src="../images/sbgnml_logo.png" width="60"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/bricks2/proteindephosphorylation/ProteinDephosphorylation-AF01-2x2.sbgn"><img src="../images/newt_logo.png" width="50"/></a></td>
-      <td><a href="/bricks2/proteindephosphorylation/ProteinDephosphorylation-ER01-2x2.sbgn"><img src="../images/sbgnml_logo.png" width="60"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/bricks2/proteindephosphorylation/ProteinDephosphorylation-ER01-2x2.sbgn"><img src="../images/newt_logo.png" width="50"/></a></td>
+      <td><a href="/bricks2/proteindephosphorylation/ProteinDephosphorylation-PD01-2x2.sbgn"><img src="../images/sbgnml_logo.png" width="60"/></a><!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/bricks2/proteindephosphorylation/ProteinDephosphorylation-PD01-2x2.sbgn"><img src="../images/newt_logo.png" width="50"/></a>--></td>
+      <td><a href="/bricks2/proteindephosphorylation/ProteinDephosphorylation-AF01-2x2.sbgn"><img src="../images/sbgnml_logo.png" width="60"/></a><!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/bricks2/proteindephosphorylation/ProteinDephosphorylation-AF01-2x2.sbgn"><img src="../images/newt_logo.png" width="50"/></a>--></td>
+      <td><a href="/bricks2/proteindephosphorylation/ProteinDephosphorylation-ER01-2x2.sbgn"><img src="../images/sbgnml_logo.png" width="60"/></a><!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/bricks2/proteindephosphorylation/ProteinDephosphorylation-ER01-2x2.sbgn"><img src="../images/newt_logo.png" width="50"/></a>--></td>
   </tr>
 </table>
 
@@ -355,8 +355,8 @@ Associated GO terms: [GO:0051259 protein complex oligomerization](http://amigo.g
       <td class="er new" style="width:32%"><img src="../bricks2/oligomerisation/Homodimerisation-ER01.png" width="58px"/></td>
   </tr>
   <tr>
-      <td><a href="/bricks2/oligomerisation/Homodimerisation-PD01.sbgn"><img src="../images/sbgnml_logo.png" width="60"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/bricks2/oligomerisation/Homodimerisation-PD01.sbgn"><img src="../images/newt_logo.png" width="50"/></a></td>
-      <td><a href="/bricks2/oligomerisation/Homodimerisation-AF01.sbgn"><img src="../images/sbgnml_logo.png" width="60"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/bricks2/oligomerisation/Homodimerisation-AF01.sbgn"><img src="../images/newt_logo.png" width="50"/></a></td>
+      <td><a href="/bricks2/oligomerisation/Homodimerisation-PD01.sbgn"><img src="../images/sbgnml_logo.png" width="60"/></a><!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/bricks2/oligomerisation/Homodimerisation-PD01.sbgn"><img src="../images/newt_logo.png" width="50"/></a>--></td>
+      <td><a href="/bricks2/oligomerisation/Homodimerisation-AF01.sbgn"><img src="../images/sbgnml_logo.png" width="60"/></a><!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/bricks2/oligomerisation/Homodimerisation-AF01.sbgn"><img src="../images/newt_logo.png" width="50"/></a>--></td>
       <td></td>
   </tr>
 </table>
@@ -374,9 +374,9 @@ Associated GO terms: [GO:0065003 protein-containing complex assembly](http://ami
       <td class="er change" style="width:32%"><img src="../bricks2/complexassociation/ComplexFormation-ER01.png" width="183px"/></td>
   </tr>
   <tr>
-      <td><a href="/bricks2/complexassociation/ComplexFormation-PD01.sbgn"><img src="../images/sbgnml_logo.png" width="60"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/bricks2/complexassociation/ComplexFormation-PD01.sbgn"><img src="../images/newt_logo.png" width="50"/></a></td>
-      <td><a href="/bricks2/complexassociation/ComplexFormation-AF01.sbgn"><img src="../images/sbgnml_logo.png" width="60"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/bricks2/complexassociation/ComplexFormation-AF01.sbgn"><img src="../images/newt_logo.png" width="50"/></a></td>
-      <td><a href="/bricks2/complexassociation/ComplexFormation-ER01.sbgn"><img src="../images/sbgnml_logo.png" width="60"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/bricks2/complexassociation/ComplexFormation-ER01.sbgn"><img src="../images/newt_logo.png" width="50"/></a></td>
+      <td><a href="/bricks2/complexassociation/ComplexFormation-PD01.sbgn"><img src="../images/sbgnml_logo.png" width="60"/></a><!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/bricks2/complexassociation/ComplexFormation-PD01.sbgn"><img src="../images/newt_logo.png" width="50"/></a>--></td>
+      <td><a href="/bricks2/complexassociation/ComplexFormation-AF01.sbgn"><img src="../images/sbgnml_logo.png" width="60"/></a><!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/bricks2/complexassociation/ComplexFormation-AF01.sbgn"><img src="../images/newt_logo.png" width="50"/></a>--></td>
+      <td><a href="/bricks2/complexassociation/ComplexFormation-ER01.sbgn"><img src="../images/sbgnml_logo.png" width="60"/></a><!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/bricks2/complexassociation/ComplexFormation-ER01.sbgn"><img src="../images/newt_logo.png" width="50"/></a>--></td>
   </tr>
 </table>
 
@@ -394,8 +394,8 @@ Associated GO terms: [GO:0032984 protein-containing complex disassembly](http://
       <td class="er change" style="width:32%">Not applicable</td>
   </tr>
   <tr>
-      <td><a href="/bricks2/complexdissociation/ComplexDissociation-PD01.sbgn"><img src="../images/sbgnml_logo.png" width="60"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/bricks2/complexdissociation/ComplexDissociation-PD01.sbgn"><img src="../images/newt_logo.png" width="50"/></a></td>
-      <td><a href="/bricks2/complexdissociation/ComplexDissociation-AF01.sbgn"><img src="../images/sbgnml_logo.png" width="60"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/bricks2/complexdissociation/ComplexDissociation-AF01.sbgn"><img src="../images/newt_logo.png" width="50"/></a></td>
+      <td><a href="/bricks2/complexdissociation/ComplexDissociation-PD01.sbgn"><img src="../images/sbgnml_logo.png" width="60"/></a><!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/bricks2/complexdissociation/ComplexDissociation-PD01.sbgn"><img src="../images/newt_logo.png" width="50"/></a>--></td>
+      <td><a href="/bricks2/complexdissociation/ComplexDissociation-AF01.sbgn"><img src="../images/sbgnml_logo.png" width="60"/></a><!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/bricks2/complexdissociation/ComplexDissociation-AF01.sbgn"><img src="../images/newt_logo.png" width="50"/></a>--></td>
       <!-- <td></td> -->
       <td></td>
   </tr>
@@ -416,9 +416,9 @@ Associated GO terms: [GO:0006351 transcription, DNA-templated](http://amigo.gene
       <td class="er new" style="width:32%"><img src="../bricks2/generegulation/Transcription-ER02.png" width="111px"/></td>
   </tr>
   <tr>
-      <td><a href="/bricks2/generegulation/Transcription-PD02.sbgn"><img src="../images/sbgnml_logo.png" width="60"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/bricks2/generegulation/Transcription-PD02.sbgn"><img src="../images/newt_logo.png" width="50"/></a></td>
-      <td><a href="/bricks2/generegulation/Transcription-AF02.sbgn"><img src="../images/sbgnml_logo.png" width="60"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/bricks2/generegulation/Transcription-AF02.sbgn"><img src="../images/newt_logo.png" width="50"/></a></td>
-      <td><a href="/bricks2/generegulation/Transcription-ER02.sbgn"><img src="../images/sbgnml_logo.png" width="60"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/bricks2/generegulation/Transcription-ER02.sbgn"><img src="../images/newt_logo.png" width="50"/></a></td>
+      <td><a href="/bricks2/generegulation/Transcription-PD02.sbgn"><img src="../images/sbgnml_logo.png" width="60"/></a><!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/bricks2/generegulation/Transcription-PD02.sbgn"><img src="../images/newt_logo.png" width="50"/></a>--></td>
+      <td><a href="/bricks2/generegulation/Transcription-AF02.sbgn"><img src="../images/sbgnml_logo.png" width="60"/></a><!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/bricks2/generegulation/Transcription-AF02.sbgn"><img src="../images/newt_logo.png" width="50"/></a>--></td>
+      <td><a href="/bricks2/generegulation/Transcription-ER02.sbgn"><img src="../images/sbgnml_logo.png" width="60"/></a><!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/bricks2/generegulation/Transcription-ER02.sbgn"><img src="../images/newt_logo.png" width="50"/></a>--></td>
   </tr>
 </table>
 
@@ -433,9 +433,9 @@ Associated GO terms: [GO:0006351 transcription, DNA-templated](http://amigo.gene
       <td class="er" style="width:32%"><img src="../bricks2/generegulation/Transcription-ER01.png" width="152px"/></td>
   </tr>
   <tr>
-      <td><a href="/bricks2/generegulation/Transcription-PD01.sbgn"><img src="../images/sbgnml_logo.png" width="60"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/bricks2/generegulation/Transcription-PD01.sbgn"><img src="../images/newt_logo.png" width="50"/></a></td>
-      <td><a href="/bricks2/generegulation/Transcription-AF01.sbgn"><img src="../images/sbgnml_logo.png" width="60"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/bricks2/generegulation/Transcription-AF01.sbgn"><img src="../images/newt_logo.png" width="50"/></a></td>
-      <td><a href="/bricks2/generegulation/Transcription-ER01.sbgn"><img src="../images/sbgnml_logo.png" width="60"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/bricks2/generegulation/Transcription-ER01.sbgn"><img src="../images/newt_logo.png" width="50"/></a></td>
+      <td><a href="/bricks2/generegulation/Transcription-PD01.sbgn"><img src="../images/sbgnml_logo.png" width="60"/></a><!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/bricks2/generegulation/Transcription-PD01.sbgn"><img src="../images/newt_logo.png" width="50"/></a>--></td>
+      <td><a href="/bricks2/generegulation/Transcription-AF01.sbgn"><img src="../images/sbgnml_logo.png" width="60"/></a><!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/bricks2/generegulation/Transcription-AF01.sbgn"><img src="../images/newt_logo.png" width="50"/></a>--></td>
+      <td><a href="/bricks2/generegulation/Transcription-ER01.sbgn"><img src="../images/sbgnml_logo.png" width="60"/></a><!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/bricks2/generegulation/Transcription-ER01.sbgn"><img src="../images/newt_logo.png" width="50"/></a>--></td>
   </tr>
 </table>
 
@@ -450,9 +450,9 @@ Associated GO terms: [GO:0006412 translation](http://amigo.geneontology.org/amig
       <td class="er" style="width:32%"><img src="../bricks2/generegulation/Translation-ER01.png" width="111px"/></td>
   </tr>
   <tr>
-      <td><a href="/bricks2/generegulation/Translation-PD01.sbgn"><img src="../images/sbgnml_logo.png" width="60"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/bricks2/generegulation/Translation-PD01.sbgn"><img src="../images/newt_logo.png" width="50"/></a></td>
-      <td><a href="/bricks2/generegulation/Translation-AF01.sbgn"><img src="../images/sbgnml_logo.png" width="60"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/bricks2/generegulation/Translation-AF01.sbgn"><img src="../images/newt_logo.png" width="50"/></a></td>
-      <td><a href="/bricks2/generegulation/Translation-ER01.sbgn"><img src="../images/sbgnml_logo.png" width="60"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/bricks2/generegulation/Translation-ER01.sbgn"><img src="../images/newt_logo.png" width="50"/></a></td>
+      <td><a href="/bricks2/generegulation/Translation-PD01.sbgn"><img src="../images/sbgnml_logo.png" width="60"/></a><!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/bricks2/generegulation/Translation-PD01.sbgn"><img src="../images/newt_logo.png" width="50"/></a>--></td>
+      <td><a href="/bricks2/generegulation/Translation-AF01.sbgn"><img src="../images/sbgnml_logo.png" width="60"/></a><!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/bricks2/generegulation/Translation-AF01.sbgn"><img src="../images/newt_logo.png" width="50"/></a>--></td>
+      <td><a href="/bricks2/generegulation/Translation-ER01.sbgn"><img src="../images/sbgnml_logo.png" width="60"/></a><!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/bricks2/generegulation/Translation-ER01.sbgn"><img src="../images/newt_logo.png" width="50"/></a>--></td>
   </tr>
 </table>
 
@@ -472,10 +472,10 @@ Associated GO terms: [GO:0006810 transport](http://amigo.geneontology.org/amigo/
       <td class="er" style="width:32%"><img src="../bricks2/compartmentation/PassiveTransport-ER01.png" width="60px"/></td>
   </tr>
   <tr>
-      <td><a href="/bricks2/compartmentation/PassiveTransport-PD01.sbgn"><img src="../images/sbgnml_logo.png" width="60"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/bricks2/compartmentation/PassiveTransport-PD01.sbgn"><img src="../images/newt_logo.png" width="50"/></a></td>
-      <td><a href="/bricks2/compartmentation/PassiveTransport-AF01.sbgn"><img src="../images/sbgnml_logo.png" width="60"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/bricks2/compartmentation/PassiveTransport-AF01.sbgn"><img src="../images/newt_logo.png" width="50"/></a></td>
+      <td><a href="/bricks2/compartmentation/PassiveTransport-PD01.sbgn"><img src="../images/sbgnml_logo.png" width="60"/></a><!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/bricks2/compartmentation/PassiveTransport-PD01.sbgn"><img src="../images/newt_logo.png" width="50"/></a>--></td>
+      <td><a href="/bricks2/compartmentation/PassiveTransport-AF01.sbgn"><img src="../images/sbgnml_logo.png" width="60"/></a><!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/bricks2/compartmentation/PassiveTransport-AF01.sbgn"><img src="../images/newt_logo.png" width="50"/></a>--></td>
       <!-- <td></td> -->
-      <td><a href="/bricks2/compartmentation/PassiveTransport-ER01.sbgn"><img src="../images/sbgnml_logo.png" width="60"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/bricks2/compartmentation/PassiveTransport-ER01.sbgn"><img src="../images/newt_logo.png" width="50"/></a></td>
+      <td><a href="/bricks2/compartmentation/PassiveTransport-ER01.sbgn"><img src="../images/sbgnml_logo.png" width="60"/></a><!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/bricks2/compartmentation/PassiveTransport-ER01.sbgn"><img src="../images/newt_logo.png" width="50"/></a>--></td>
   </tr>
 </table>
 
@@ -488,9 +488,9 @@ Associated GO terms: [GO:0006810 transport](http://amigo.geneontology.org/amigo/
       <td class="er" style="width:32%"><img src="../bricks2/compartmentation/ActiveTransport-ER01.png" width="132px"/></td>
   </tr>
   <tr>
-      <td><a href="/bricks2/compartmentation/ActiveTransport-PD01.sbgn"><img src="../images/sbgnml_logo.png" width="60"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/bricks2/compartmentation/ActiveTransport-PD01.sbgn"><img src="../images/newt_logo.png" width="50"/></a></td>
-      <td><a href="/bricks2/compartmentation/ActiveTransport-AF01.sbgn"><img src="../images/sbgnml_logo.png" width="60"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/bricks2/compartmentation/ActiveTransport-AF01.sbgn"><img src="../images/newt_logo.png" width="50"/></a></td>
-      <td><a href="/bricks2/compartmentation/ActiveTransport-ER01.sbgn"><img src="../images/sbgnml_logo.png" width="60"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/bricks2/compartmentation/ActiveTransport-ER01.sbgn"><img src="../images/newt_logo.png" width="50"/></a></td>
+      <td><a href="/bricks2/compartmentation/ActiveTransport-PD01.sbgn"><img src="../images/sbgnml_logo.png" width="60"/></a><!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/bricks2/compartmentation/ActiveTransport-PD01.sbgn"><img src="../images/newt_logo.png" width="50"/></a>--></td>
+      <td><a href="/bricks2/compartmentation/ActiveTransport-AF01.sbgn"><img src="../images/sbgnml_logo.png" width="60"/></a><!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/bricks2/compartmentation/ActiveTransport-AF01.sbgn"><img src="../images/newt_logo.png" width="50"/></a>--></td>
+      <td><a href="/bricks2/compartmentation/ActiveTransport-ER01.sbgn"><img src="../images/sbgnml_logo.png" width="60"/></a><!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/bricks2/compartmentation/ActiveTransport-ER01.sbgn"><img src="../images/newt_logo.png" width="50"/></a>--></td>
   </tr>
 </table>
 
@@ -508,7 +508,7 @@ Associated GO terms: [GO:0008150 biological_process](http://amigo.geneontology.o
   </tr>
   <tr>
       <td></td>
-      <td><a href="/bricks2/functionalgenomics/FunctionalRelationship-AF01.sbgn"><img src="../images/sbgnml_logo.png" width="60"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/bricks2/functionalgenomics/FunctionalRelationship-AF01.sbgn"><img src="../images/newt_logo.png" width="50"/></a></td>
+      <td><a href="/bricks2/functionalgenomics/FunctionalRelationship-AF01.sbgn"><img src="../images/sbgnml_logo.png" width="60"/></a><!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/bricks2/functionalgenomics/FunctionalRelationship-AF01.sbgn"><img src="../images/newt_logo.png" width="50"/></a>--></td>
       <td></td>
   </tr>
 </table>
