@@ -72,7 +72,7 @@ Michael Blinov [blinov@uchc.edu](mailto:blinov@uchc.edu) and Ann Cowan [acowan@u
 
 <table>
 <tr>
-<td style="width: 200px;"><p style="margin:4px;"><strong>Michael Blinov</strong></p><p style="margin:4px; line-height:100%;"><font size="2">UConn School of Medicine, University in Farmington, Connecticut, USA</font></p></td>
+<td style="width: 200px;"><p style="margin:4px;"><strong>Michael Blinov</strong></p><p style="margin:4px; line-height:100%;"><font size="2">UConn School of Medicine, Farmington, Connecticut, USA</font></p></td>
 <td style="width: 200px;"><p style="margin:4px;"><strong>Emek Demir</strong></p><p style="margin:4px; line-height:100%;"><font size="2">Oregon Health & Science University, Portland, USA</font></p></td>
 <td style="width: 200px;"><p style="margin:4px;"><strong>Gary Bader</strong></p><p style="margin:4px; line-height:100%;"><font size="2">University of Toronto, Toronto, Canada</font></p></td>
 <td style="width: 200px;"><p style="margin:4px;"> </p></td>
