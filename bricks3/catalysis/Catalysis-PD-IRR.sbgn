@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<sbgn xmlns="http://sbgn.org/libsbgn/0.2">
+    <map language="process description">
+        <glyph id="glyph3" class="simple chemical">
+            <label text="P1"/>
+            <bbox y="75.0" x="195.0" h="60.0" w="60.0"/>
+        </glyph>
+        <glyph id="glyph1" class="simple chemical">
+            <label text="P2"/>
+            <bbox y="170.0" x="195.0" h="60.0" w="60.0"/>
+        </glyph>
+        <glyph id="glyph4" class="macromolecule">
+            <label text="enzyme"/>
+            <bbox y="20.0" x="90.0" h="50.0" w="90.0"/>
+        </glyph>
+        <glyph id="glyph0" class="simple chemical">
+            <label text="S1"/>
+            <bbox y="75.0" x="15.0" h="60.0" w="60.0"/>
+        </glyph>
+        <glyph id="glyph2" class="simple chemical">
+            <label text="S2"/>
+            <bbox y="170.0" x="15.0" h="60.0" w="60.0"/>
+        </glyph>
+        <glyph id="glyph5" class="process">
+            <bbox y="138.0" x="123.0" h="24.0" w="24.0"/>
+            <port y="150.0" x="159.0" id="glyph5.2"/>
+            <port y="150.0" x="111.0" id="glyph5.1"/>
+        </glyph>
+        <arc target="glyph3" source="glyph5.2" id="arc1" class="production">
+            <start y="150.0" x="159.0"/>
+            <end y="120.434875" x="199.2752"/>
+        </arc>
+        <arc target="glyph1" source="glyph5.2" id="arc2" class="production">
+            <start y="150.0" x="159.0"/>
+            <end y="183.359" x="200.0385"/>
+        </arc>
+        <arc target="glyph5" source="glyph4" id="arc5" class="catalysis">
+            <start y="70.0" x="135.0"/>
+            <end y="138.0" x="135.0"/>
+        </arc>
+        <arc target="glyph5.1" source="glyph0" id="arc3" class="consumption">
+            <start y="121.90011" x="69.78682"/>
+            <end y="150.0" x="111.0"/>
+        </arc>
+        <arc target="glyph5.1" source="glyph2" id="arc4" class="consumption">
+            <start y="181.88426" x="68.912766"/>
+            <end y="150.0" x="111.0"/>
+        </arc>
+    </map>
+</sbgn>

@@ -1,0 +1,88 @@
+[
+    {
+        "lang": "PD",
+        "name": "Inhibition of an irreversible metabolic reaction",
+        "categories": [
+            "Inhibition",
+            "Irreversible reaction"
+        ],
+        "sbgn_file": "inhibition/Inhibition-PD-IRR.sbgn",
+        "png_file": "inhibition/Inhibition-PD-IRR.png",
+        "description": "Descr of Inhib irr"
+    },
+    {
+        "lang": "PD",
+        "name": "Reversible metabolic reaction",
+        "categories": [
+            "Metabolic reaction",
+            "Reversible reaction"
+        ],
+        "description": "Descr of Rev metab",
+        "sbgn_file": "Reaction-PD-REV.sbgn",
+        "png_file": "Reaction-PD-REV.png"
+    },
+    {
+        "lang": "PD",
+        "name": "Inhibition of a catalyzed irreversible metabolic reaction",
+        "categories": [
+            "Inhibition",
+            "Irreversible reaction",
+            "Catalysis"
+        ],
+        "sbgn_file": "inhibition/Inhibition-Catalysis-PD-IRR.sbgn",
+        "png_file": "inhibition/Inhibition-Catalysis-PD-IRR.png",
+        "description": "Descr of Inhib Cat irr"
+    },
+    {
+        "lang": "PD",
+        "name": "Catalysis of an irreversible metabolic reaction",
+        "categories": [
+            "Catalysis",
+            "Irreversible reaction"
+        ],
+        "sbgn_file": "catalysis/Catalysis-PD-IRR.sbgn",
+        "png_file": "catalysis/Catalysis-PD-IRR.png",
+        "description": "Descr of Cat irr"
+    },
+    {
+        "lang": "PD",
+        "name": "Irreversible metabolic reaction",
+        "catagories": [
+            "Metabolic reaction",
+            "Irreversible reaction"
+        ],
+        "sbgn_file": "reaction/Reaction-PD-IRR.sbgn",
+        "png_file": "reaction/Reaction-PD-IRR.png",
+        "description": "Descr of Reac irr"
+    },
+    {
+        "lang": "PD",
+        "name": "Phosphorylation of a protein by a kinase on an unknown site",
+        "catagories": [
+            "Protein phosphorylation"
+        ],
+        "sbgn_file": "proteinphosphorylation/Phosphorylation-PD-no_site.sbgn",
+        "png_file": "proteinphosphorylation/Phosphorylation-PD-no_site.png",
+        "description": "Descr of Phosphorylation no site"
+    },
+    {
+        "lang": "AF",
+        "name": "Stimulation of a protein activity by a kinase activity",
+        "catagories": [
+            "Protein phosphorylation"
+        ],
+        "sbgn_file": "proteinphosphorylation/Phosphorylation-AF.sbgn",
+        "png_file": "proteinphosphorylation/Phosphorylation-AF.png",
+        "description": "Descr of Kinase stimulation"
+    },
+    {
+        "lang": "ER",
+        "name": "Phosphorylation of an entity by a kinase on an unknown site",
+        "catagories": [
+            "Protein phosphorylation"
+        ],
+        "sbgn_file": "proteinphosphorylation/Phosphorylation-ER-no_site.sbgn",
+        "png_file": "proteinphosphorylation/Phosphorylation-ER-no_site.png",
+        "description": "Descr of Phosphorylation no site"
+    }
+]

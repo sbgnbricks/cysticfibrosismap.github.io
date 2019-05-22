@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<sbgn xmlns="http://sbgn.org/libsbgn/0.2">
+    <map language="entity relationship">
+        <glyph id="glyph2" class="variable value">
+            <label text="NUCLEUS"/>
+            <bbox y="6.0" x="118.25" h="20.0" w="87.5"/>
+        </glyph>
+        <glyph id="glyph1" class="entity">
+            <label text="X"/>
+            <bbox y="92.0" x="122.0" h="40.0" w="80.0"/>
+            <glyph id="glyph1a" class="location">
+                <bbox y="76.0" x="151.0" h="32.0" w="22.0"/>
+            </glyph>
+        </glyph>
+        <glyph id="glyph3" class="entity">
+            <label text="Y"/>
+            <bbox y="27.0" x="10.0" h="40.0" w="80.0"/>
+        </glyph>
+        <arc target="glyph1" source="glyph2" id="arc1" class="assignment">
+            <port y="49.0" x="162.0" id="arc1.0"/>
+            <start y="26.0" x="162.0"/>
+            <end y="87.0" x="162.0"/>
+        </arc>
+        <arc target="arc1.0" source="glyph3" id="arc3" class="stimulation">
+            <start y="47.714287" x="90.0"/>
+            <end y="49.0" x="162.0"/>
+        </arc>
+    </map>
+</sbgn>

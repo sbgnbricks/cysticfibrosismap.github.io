@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<sbgn xmlns="http://sbgn.org/libsbgn/0.2">
+    <map language="activity flow">
+        <glyph id="glyph0" class="biological activity">
+            <label text="kinase"/>
+            <bbox y="15.0" x="14.0" h="50.0" w="90.0"/>
+            <glyph id="glyph0a" class="unit of information">
+                <entity name="macromolecule"/>
+                <bbox y="7.0" x="66.5" h="16.0" w="30.0"/>
+            </glyph>
+        </glyph>
+        <glyph id="glyph1" class="biological activity">
+            <label text="X"/>
+            <bbox y="125.0" x="14.0" h="50.0" w="90.0"/>
+            <glyph id="glyph1a" class="unit of information">
+                <entity name="macromolecule"/>
+                <bbox y="117.0" x="66.5" h="16.0" w="30.0"/>
+            </glyph>
+        </glyph>
+        <arc target="glyph1" source="glyph0" id="arc0" class="positive influence">
+            <start y="65.0" x="59.0"/>
+            <end y="125.0" x="59.0"/>
+        </arc>
+    </map>
+</sbgn>

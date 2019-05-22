@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<sbgn xmlns="http://sbgn.org/libsbgn/0.2">
+    <map language="activity flow">
+        <glyph id="glyph0" class="biological activity">
+            <label text="X"/>
+            <bbox y="18.0" x="187.5" h="40.0" w="80.0"/>
+            <glyph id="glyph0a" class="unit of information">
+                <entity name="macromolecule"/>
+                <bbox y="10.0" x="192.5" h="16.0" w="30.0"/>
+            </glyph>
+        </glyph>
+        <glyph id="glyph1" class="biological activity">
+            <label text="X_Y"/>
+            <bbox y="48.0" x="13.0" h="40.0" w="80.0"/>
+            <glyph id="glyph1a" class="unit of information">
+                <entity name="complex"/>
+                <bbox y="40.0" x="18.0" h="16.0" w="30.0"/>
+            </glyph>
+        </glyph>
+        <glyph id="glyph2" class="biological activity">
+            <label text="Y"/>
+            <bbox y="82.0" x="187.5" h="40.0" w="80.0"/>
+            <glyph id="glyph2a" class="unit of information">
+                <entity name="macromolecule"/>
+                <bbox y="74.0" x="192.5" h="16.0" w="30.0"/>
+            </glyph>
+        </glyph>
+        <arc target="glyph0" source="glyph1" id="arc0" class="positive influence">
+            <start y="61.12321" x="93.0"/>
+            <end y="44.87679" x="187.5"/>
+        </arc>
+        <arc target="glyph2" source="glyph1" id="arc1" class="positive influence">
+            <start y="75.79369" x="93.0"/>
+            <end y="94.20631" x="187.5"/>
+        </arc>
+    </map>
+</sbgn>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<sbgn xmlns="http://sbgn.org/libsbgn/0.2">
+    <map language="entity relationship">
+        <glyph id="glyph2" class="variable value">
+            <label text="T"/>
+            <bbox y="7.0" x="142.0" h="20.0" w="20.0"/>
+        </glyph>
+        <glyph id="glyph1" class="entity">
+            <label text="X"/>
+            <bbox y="127.0" x="93.0" h="40.0" w="80.0"/>
+            <glyph id="glyph1a" class="unit of information">
+                <label text="ct:mRNA"/>
+                <bbox y="119.0" x="84.5" h="16.0" w="57.0"/>
+            </glyph>
+            <glyph id="glyph1b" class="existence">
+                <bbox y="114.5" x="142.0" h="25.0" w="22.0"/>
+            </glyph>
+        </glyph>
+        <glyph id="glyph0" class="entity">
+            <label text="X"/>
+            <bbox y="37.0" x="9.0" h="40.0" w="80.0"/>
+            <glyph id="glyph0a" class="unit of information">
+                <label text="ct:mRNA"/>
+                <bbox y="29.0" x="20.5" h="16.0" w="57.0"/>
+            </glyph>
+        </glyph>
+        <arc target="glyph1" source="glyph2" id="arc0" class="assignment">
+            <port y="57.0" x="152.15448" id="arc0.0"/>
+            <start y="27.0" x="150.53847"/>
+            <end y="122.0" x="153.0"/>
+        </arc>
+        <arc target="arc0.0" source="glyph0" id="arc1" class="necessary stimulation">
+            <start y="57.0" x="89.0"/>
+            <end y="57.0" x="152.15448"/>
+        </arc>
+    </map>
+</sbgn>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<sbgn xmlns="http://sbgn.org/libsbgn/0.2">
+    <map language="entity relationship">
+        <glyph id="glyph3" class="variable value">
+            <label text="P"/>
+            <bbox y="11.0" x="150.0" h="20.0" w="25.0"/>
+        </glyph>
+        <glyph id="glyph1" class="entity">
+            <label text="X"/>
+            <bbox y="102.0" x="122.5" h="40.0" w="80.0"/>
+            <glyph id="glyph1a" class="state variable">
+                <state value="Y701"/>
+                <bbox y="94.0" x="142.5" h="16.0" w="40.0"/>
+            </glyph>
+        </glyph>
+        <glyph id="glyph2" class="entity">
+            <label text="kinase"/>
+            <bbox y="43.0" x="14.0" h="40.0" w="80.0"/>
+        </glyph>
+        <arc target="glyph1" source="glyph3" id="arc1" class="assignment">
+            <port y="64.0" x="162.5" id="arc1.0"/>
+            <start y="31.0" x="162.5"/>
+            <end y="97.0" x="162.5"/>
+        </arc>
+        <arc target="arc1.0" source="glyph2" id="arc2" class="stimulation">
+            <start y="63.368664" x="94.0"/>
+            <end y="64.0" x="162.5"/>
+        </arc>
+    </map>
+</sbgn>

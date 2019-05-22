@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Irreversible metabolic reaction",
+        "pd": "Irreversible metabolic reaction",
+        "af": null,
+        "er": null,
+        "note": "Some note"
+    },
+    {
+        "name": "Phosphorylation on an unknown site",
+        "pd": "Phosphorylation of a protein by a kinase on an unknown site",
+        "af": "Stimulation of a protein activity by a kinase activity",
+        "er": "Phosphorylation of an entity by a kinase on an unknown site",
+        "node": "Some note"
+    }
+]

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<sbgn xmlns="http://sbgn.org/libsbgn/0.2">
+    <map language="entity relationship">
+        <glyph id="glyph5" class="variable value">
+            <label text="T"/>
+            <bbox y="89.0" x="124.25" h="20.0" w="22.5"/>
+        </glyph>
+        <glyph id="glyph2" class="entity">
+            <label text="Y"/>
+            <bbox y="6.0" x="95.5" h="40.0" w="80.0"/>
+            <glyph id="glyph2a" class="existence">
+                <bbox y="33.5" x="124.5" h="25.0" w="22.0"/>
+            </glyph>
+        </glyph>
+        <glyph id="glyph4" class="variable value">
+            <label text="T"/>
+            <bbox y="115.0" x="124.25" h="20.0" w="22.5"/>
+        </glyph>
+        <glyph id="glyph1" class="entity">
+            <label text="X"/>
+            <bbox y="180.0" x="95.5" h="40.0" w="80.0"/>
+            <glyph id="glyph1a" class="existence">
+                <bbox y="167.5" x="124.5" h="25.0" w="22.0"/>
+            </glyph>
+        </glyph>
+        <glyph id="glyph3" class="entity">
+            <label text="X_Y"/>
+            <bbox y="93.0" x="6.0" h="40.0" w="80.0"/>
+        </glyph>
+        <arc target="glyph2" source="glyph5" id="arc1" class="assignment">
+            <port y="78.0" x="135.5" id="arc1.0"/>
+            <start y="89.0" x="135.5"/>
+            <end y="51.0" x="135.5"/>
+        </arc>
+        <arc target="glyph1" source="glyph4" id="arc2" class="assignment">
+            <port y="147.0" x="135.5" id="arc2.0"/>
+            <start y="135.0" x="135.5"/>
+            <end y="175.0" x="135.5"/>
+        </arc>
+        <arc target="arc1.0" source="glyph3" id="arc3" class="stimulation">
+            <start y="93.0" x="46.0"/>
+            <next y="78.0" x="46.0"/>
+            <end y="78.0" x="135.5"/>
+        </arc>
+        <arc target="arc2.0" source="glyph3" id="arc4" class="stimulation">
+            <start y="133.0" x="46.0"/>
+            <next y="147.0" x="46.0"/>
+            <end y="147.0" x="135.5"/>
+        </arc>
+    </map>
+</sbgn>

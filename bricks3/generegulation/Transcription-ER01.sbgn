@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<sbgn xmlns="http://sbgn.org/libsbgn/0.2">
+    <map language="entity relationship">
+        <glyph id="glyph3" class="entity">
+            <label text="X"/>
+            <bbox y="20.0" x="10.0" h="40.0" w="80.0"/>
+            <glyph id="glyph3a" class="unit of information">
+                <label text="ct:gene"/>
+                <bbox y="12.0" x="44.5" h="16.0" w="51.0"/>
+            </glyph>
+        </glyph>
+        <glyph id="glyph1" class="entity">
+            <label text="TF"/>
+            <bbox y="181.0" x="10.0" h="40.0" w="80.0"/>
+            <glyph id="glyph1a" class="unit of information">
+                <label text="mt:prot"/>
+                <bbox y="173.0" x="46.0" h="16.0" w="48.0"/>
+            </glyph>
+        </glyph>
+        <glyph id="glyph4" class="variable value">
+            <label text="T"/>
+            <bbox y="172.0" x="155.75" h="20.0" w="22.5"/>
+        </glyph>
+        <glyph id="glyph2" class="entity">
+            <label text="X"/>
+            <bbox y="20.0" x="147.0" h="40.0" w="80.0"/>
+            <glyph id="glyph2a" class="unit of information">
+                <label text="ct:mRNA"/>
+                <bbox y="12.0" x="178.5" h="16.0" w="57.0"/>
+            </glyph>
+            <glyph id="glyph2b" class="existence">
+                <bbox y="47.5" x="156.0" h="25.0" w="22.0"/>
+            </glyph>
+        </glyph>
+        <arc target="glyph1" source="glyph3" id="arc1" class="interaction">
+            <glyph id="arc1.0" class="outcome">
+                <bbox y="117.0" x="44.0" h="12.0" w="12.0"/>
+            </glyph>
+            <start y="60.0" x="50.0"/>
+            <end y="181.0" x="50.0"/>
+        </arc>
+        <arc target="glyph2" source="glyph4" id="arc2" class="assignment">
+            <port y="123.0" x="167.0" id="arc2.0"/>
+            <start y="172.0" x="168.40845"/>
+            <end y="65.0" x="167.0"/>
+        </arc>
+        <arc target="arc2.0" source="arc1.0" id="arc3" class="necessary stimulation">
+            <start y="123.0" x="56.0"/>
+            <end y="123.0" x="167.0"/>
+        </arc>
+    </map>
+</sbgn>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<sbgn xmlns="http://sbgn.org/libsbgn/0.2">
+    <map language="activity flow">
+        <glyph compartmentOrder="-4.0" id="glyph1" class="compartment">
+            <label text="CYTOSOL">
+                <bbox y="13.0" x="92.0" h="18.0" w="76.0"/>
+            </label>
+            <bbox y="5.0" x="5.0" h="240.0" w="250.0"/>
+        </glyph>
+        <glyph compartmentOrder="-3.0" id="glyph2" class="compartment">
+            <label text="NUCLEUS">
+                <bbox y="118.0" x="93.0" h="18.0" w="72.0"/>
+            </label>
+            <bbox y="110.0" x="29.0" h="110.0" w="200.0"/>
+        </glyph>
+        <glyph compartmentRef="glyph1" id="glyph3" class="biological activity">
+            <label text="X"/>
+            <bbox y="45.0" x="56.0" h="40.0" w="80.0"/>
+            <glyph id="glyph3a" class="unit of information">
+                <entity name="macromolecule"/>
+                <bbox y="37.0" x="61.0" h="16.0" w="30.0"/>
+            </glyph>
+        </glyph>
+        <glyph compartmentRef="glyph2" id="glyph4" class="biological activity">
+            <label text="X"/>
+            <bbox y="158.0" x="55.0" h="40.0" w="80.0"/>
+            <glyph id="glyph4a" class="unit of information">
+                <entity name="macromolecule"/>
+                <bbox y="150.0" x="60.0" h="16.0" w="30.0"/>
+            </glyph>
+        </glyph>
+        <arc target="glyph4" source="glyph3" id="arc1" class="positive influence">
+            <start y="85.0" x="95.823006"/>
+            <end y="158.0" x="95.176994"/>
+        </arc>
+    </map>
+</sbgn>

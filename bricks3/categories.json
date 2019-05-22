@@ -1,0 +1,98 @@
+[
+    {
+        "name": "Metabolic network",
+        "sub_categories": [
+            "Metabolic reaction",
+            "Catalysis",
+            "Inhibition"
+        ],
+        "go_terms": [],
+        "description": "Met net descr"
+    },
+    {
+        "name": "Inhibition",
+        "sub_categories": [],
+        "go_terms": [
+            {
+                "term": "negative regulation of catalytic activity",
+                "go": "GO:0043086",
+                "link": "http://amigo.geneontology.org/amigo/term/GO:0043086"
+            }
+        ],
+        "description": "Inhibition descr"
+    },
+    {
+        "name": "Catalysis",
+        "sub_categories": [],
+        "go_terms": [
+            {
+                "term": "catalytic activity",
+                "go": "GO:0003824",
+                "link": "http://amigo.geneontology.org/amigo/term/GO:0003824"
+            }
+        ],
+        "description": "Car descr"
+    },
+    {
+        "name": "Metabolic reaction",
+        "sub_categories": [],
+        "go_terms": [
+            {
+                "term": "metabolic process",
+                "go": "GO:0008152",
+                "link": "http://amigo.geneontology.org/amigo/term/GO:0008152"
+            }
+        ],
+        "description": "Met reac descr"
+    },
+    {
+        "name": "Irreversible reaction",
+        "sub_categories": [],
+        "go_terms": [],
+        "description": ""
+    },
+    {
+        "name": "Reversible reaction",
+        "sub_categories": [],
+        "go_terms": [],
+        "description": ""
+    },
+    {
+        "name": "Signalling network",
+        "sub_categories": [
+            "Protein phosphorylation",
+            "Protein dephosphorylation"
+        ],
+        "go_terms": [
+            {
+                "term": "signaling",
+                "go": "GO:0023052",
+                "link": "http://amigo.geneontology.org/amigo/term/GO:0023052"
+            },
+            {
+                "term": "signal transduction",
+                "go": "GO:0007165",
+                "link": "http://amigo.geneontology.org/amigo/term/GO:0007165"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "name": "Protein phosphorylation",
+        "sub_categories": [
+        ],
+        "go_terms": [
+            {
+                "term": "protein phosphorylation",
+                "go": "GO:0006468",
+                "link": "http://amigo.geneontology.org/amigo/term/GO:0006468"
+            },
+            {
+                "term": "positive regulation of protein phosphorylation",
+                "go": "GO:0001934",
+                "link": "http://amigo.geneontology.org/amigo/term/GO:0001934"
+            }
+        ],
+        "description": ""
+    }
+]

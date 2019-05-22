@@ -1,0 +1,21 @@
+\documentclass[convert=\{density=300,size=1080x800,outext=.png\}]{standalone}%
+\usepackage[T1]{fontenc}%
+\usepackage[utf8]{inputenc}%
+\usepackage{lmodern}%
+\usepackage{textcomp}%
+\usepackage{lastpage}%
+%
+\usepackage[utf8]{inputenc}%
+\usepackage{tikz}%
+\usetikzlibrary{sbgn}%
+%
+\begin{document}%
+\normalsize%
+\begin{tikzpicture}[sbgn, yscale=-1]
+\node[biological activity, minimum width=90.0pt, minimum height=40.0pt] (glyph0) at (59.0pt,40.0pt) {phosphatase};
+\node[ui macromolecule, minimum width=30.0pt, minimum height=16.0pt] (glyph0a) at (81.5pt,20.0pt) {};
+\node[biological activity, minimum width=80.0pt, minimum height=40.0pt] (glyph1) at (59.0pt,150.0pt) {X};
+\node[ui macromolecule, minimum width=30.0pt, minimum height=16.0pt] (glyph1a) at (79.0pt,130.0pt) {};
+\draw[inhibition] (glyph0) -- (glyph1);
+\end{tikzpicture}%
+\end{document}
