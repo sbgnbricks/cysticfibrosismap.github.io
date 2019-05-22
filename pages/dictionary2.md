@@ -128,6 +128,7 @@ var data_dir = "/bricks3/";
             [[>er_link]]
         </tr>
     </table>
+    [[note]]
 </script>
 
 <script id="template_pd_im" type="x-tmpl-mustache">
