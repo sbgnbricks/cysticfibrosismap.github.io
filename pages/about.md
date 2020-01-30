@@ -20,6 +20,9 @@ To contribute and discuss the project please use this email address:
 SBGN Bricks Project Coordinator:  
 Alexander Mazein [a.mazein@gmail.com](mailto:a.mazein@gmail.com)  
 
+SBGN Bricks Ontology:  
+Adrien Rougny 
+
 ModelBricks Project Leaders:  
 Michael Blinov [blinov@uchc.edu](mailto:blinov@uchc.edu) and Ann Cowan [acowan@uchc.edu](mailto:acowan@uchc.edu)  
 
