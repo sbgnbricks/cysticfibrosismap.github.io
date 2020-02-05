@@ -10,7 +10,7 @@ SBGN bricks are defined as the recurring biological paterns reflected in the SBG
 
 ## How to cite SBGN Bricks
 
-Junker A, Sorokin A, Czauderna T, Schreiber F, Mazein A. Wiring diagrams in biology: towards the standardized representation of biological information. Trends Biotechnol. 2012 Nov;30(11):555-7. [doi:10.1016/j.tibtech.2012.08.003](https://doi.org/10.1016/j.tibtech.2012.08.003). Epub 2012 Sep 11. PubMed [PMID: 22979995](https://www.ncbi.nlm.nih.gov/pubmed/22979995).  
+Junker A, Sorokin A, Czauderna T, Schreiber F, Mazein A. Wiring diagrams in biology: towards the standardized representation of biological information. Trends Biotechnol. 2012 Nov;30(11):555-7. [doi:10.1016/j.tibtech.2012.08.003](https://www.cell.com/trends/biotechnology/fulltext/S0167-7799(12)00133-3). Epub 2012 Sep 11. PubMed [PMID: 22979995](https://www.ncbi.nlm.nih.gov/pubmed/22979995).  
 
 The first issue of the SBGN Bricks is available at [http://sbgnbricks.sourceforge.net](http://sbgnbricks.sourceforge.net/) with the SBGN Bricks Dictionary at [http://sbgnbricks.sourceforge.net/sbgnbricks_dictionary.html](http://sbgnbricks.sourceforge.net/sbgnbricks_dictionary.html) and examples provided [here](http://sbgnbricks.sourceforge.net/sbgnbricks_examples.html).  
 
