@@ -10,7 +10,15 @@ SBGN bricks are defined as the recurring biological paterns reflected in the SBG
 
 ## How to cite SBGN Bricks
 
-Junker A, Sorokin A, Czauderna T, Schreiber F, Mazein A. Wiring diagrams in biology: towards the standardized representation of biological information. Trends Biotechnol. 2012 Nov;30(11):555-7. [doi:10.1016/j.tibtech.2012.08.003](https://doi.org/10.1016/j.tibtech.2012.08.003). Epub 2012 Sep 11. PubMed [PMID: 22979995](https://www.ncbi.nlm.nih.gov/pubmed/22979995).  
+Rougny A, Touré V, Albanese J, Waltemath D, Shirshov D, Sorokin A, Bader GD, Blinov ML, Mazein A. SBGN Bricks Ontology as a tool to describe recurring concepts in molecular networks. Brief Bioinform. 2021 Mar 24:bbab049. <a href="https://doi.org/10.1093/bib/bbab049">doi: 10.1093/bib/bbab049</a>. Epub ahead of print. <a href="https://pubmed.ncbi.nlm.nih.gov/33758926/">PMID: 33758926</a>.  
+
+Junker A, Sorokin A, Czauderna T, Schreiber F, Mazein A. Wiring diagrams in biology: towards the standardized representation of biological information. Trends Biotechnol. 2012 Nov;30(11):555-7. [doi:10.1016/j.tibtech.2012.08.003](https://doi.org/10.1016/j.tibtech.2012.08.003). Epub 2012 Sep 11. [PMID: 22979995](https://www.ncbi.nlm.nih.gov/pubmed/22979995).  
+
+## SBGN Bricks Ontology
+
+Please use the new website to browse the [SBGN Bricks Ontology](http://sbgnbricks.org/BKO/full/explore/bricks/all/).
+
+## Earlier versions
 
 The first issue of the SBGN Bricks is available at [http://sbgnbricks.sourceforge.net](http://sbgnbricks.sourceforge.net/) with the SBGN Bricks Dictionary at [http://sbgnbricks.sourceforge.net/sbgnbricks_dictionary.html](http://sbgnbricks.sourceforge.net/sbgnbricks_dictionary.html) and examples provided [here](http://sbgnbricks.sourceforge.net/sbgnbricks_examples.html).  
 
